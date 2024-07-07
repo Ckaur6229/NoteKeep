@@ -1,8 +1,9 @@
-# React + Vite
+NoteKeep
+NoteKeep is a simple web application built using React+ Vite, and Bootstrap, designed to help users add and delete notes easily.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Add Notes: Quickly add new notes to your collection.
+Delete Notes: Remove notes that you no longer need.
+Technologies Used
+React + Vite: React is declarative, efficient, and flexible JavaScript library for building user interfaces. Vite is next-generation front-end tool that provides a fast development experience with lightning-fast cold server start.
+Bootstrap: A popular CSS framework for building responsive, mobile-first projects on the web.
